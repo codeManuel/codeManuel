@@ -1,25 +1,66 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0pt;
+    padding: 0px;
     box-sizing: border-box;
-    
 }
+
 html {
-    background-color: rgb(142, 142, 168);
-    
-
+    font-size: 62.5%;
 }
-
+nav {
+    text-decoration: none;
+    background-color: rgb(105, 87, 84);
+    width: 100vw;
+    height: 7rem;
+}
+a {
+    padding: 1rem;
+    border: solid;
+    border-radius: 3rem;
+    margin-right: 3rem;
+    font-size: 5rem;
+    text-decoration: none;
+    background-color: rgb(105, 87, 84);
+}
 h1 {
-    background-color: rgb(101, 155, 48);
-    color: white;
-    font-size: 80px;
+    width: 100vw;
+    padding: 1rem;
+    border: solid;
+    border-radius: 0rem;
+    margin-right: 3rem;
+    font-size: 5rem;
+    text-decoration: none;
+    background-color: rgb(105, 87, 84);
+
 }
-#mate {
-    color: blueviolet;
-    font-size: 60px;
+footer {
+    width: 100vw;
+    padding: 1rem;
+    border: solid;
+    border-radius: 0rem;
+    margin-right: 3rem;
+    font-size: 5rem;
+    text-decoration: none;
+    background-color: rgb(105, 87, 84);
+    align-items: flex-end;
 }
-.clase {
-    color: brown;
-    font-size: 60px;
+main {
+    min-width: 100vw;
+    min-height: 70vh;
+}
+img {
+    z-index: transparent;
+    border-radius: 5rem;
+    border: solid;
+
+}
+main section article p {
+
+    font-size: 3rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+section ul li {
+    font-size: 10rem;
+
 }
