@@ -6,20 +6,20 @@
 }
 html {
     background-color: rgb(142, 142, 168);
-    font-size: 62.5%;
+    
 
 }
 
 h1 {
     background-color: rgb(101, 155, 48);
     color: white;
-    font-size: 80rem;
+    font-size: 80px;
 }
 #mate {
     color: blueviolet;
-    font-size: 60rem;
+    font-size: 60px;
 }
 .clase {
     color: brown;
-    font-size: 60rem;
+    font-size: 60px;
 }
